@@ -42,4 +42,4 @@ Python (pandas, sqlalchemy) ==> PostgreSQL ==> SQL avancé (CTE, fonctions fenê
 3. Lancer l'ETL : `python etl / load_data .py `
 4. Ouvrir le dashboard : `docs / dashboard .pbix `
 ## Auteur
- Ing Crespino Marius ADJANINYEDO -- [ LinkedIn: ] -- [ Email: cmadjaninyedo1@gmail.com ]
+ Ing Crespino Marius ADJANINYEDO -- [ LinkedIn: linkedin.com/in/cm-adjaninyedo ] -- [ Email: cmadjaninyedo1@gmail.com ]
